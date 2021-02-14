@@ -1,0 +1,16 @@
+{
+  "name": "<ACTION_NAME>",
+  "version": "0.1.0",
+  "private": true,
+  "description": "<ACTION_DESCRIPTION>",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<USERNAME>/<REPO>.git"
+  },
+  "author": "<ACTION_AUTHOR>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
